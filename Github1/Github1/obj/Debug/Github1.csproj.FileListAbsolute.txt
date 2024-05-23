@@ -1,0 +1,17 @@
+C:\Users\omerf\source\repos\Github1\Github1\bin\Debug\Github1.exe.config
+C:\Users\omerf\source\repos\Github1\Github1\bin\Debug\Github1.exe
+C:\Users\omerf\source\repos\Github1\Github1\bin\Debug\Github1.pdb
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.csproj.AssemblyReference.cache
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.Form1.resources
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.Properties.Resources.resources
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.csproj.GenerateResource.cache
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.csproj.CoreCompileInputs.cache
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.exe
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.pdb
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.FormÜyelikİşlemleri.resources
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.FormKitapİşlemleri.resources
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.FormKitapAlma.resources
+C:\Users\omerf\source\repos\Github1\Github1\bin\Debug\System.Data.SqlClient.dll
+C:\Users\omerf\source\repos\Github1\Github1\bin\Debug\System.Data.SqlClient.xml
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.csproj.CopyComplete
+C:\Users\omerf\source\repos\Github1\Github1\obj\Debug\Github1.FormAlınanKitaplar.resources
